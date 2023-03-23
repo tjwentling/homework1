@@ -68,7 +68,7 @@ The first is AUM (assets under management). In the second half of 2021 (most rec
 The second metric, would be continuously increased valuations during funding rounds. As investors place more and more of their capital into M1, they are doing deep dives into the company's financials. If the metrics they are analyzing continuously improve then it can be generally agreed upon that the company is succesful. 
 
 * As a private company, access to their financials is not something I have the ability to compare at the moment. However, considering the 150% increase in AUM, and the awards received (listed below) M1 is clearly quickly becoming a real player in this space.
-![reviews](./Images/reviews)
+![reviews](./Images/reviews.png)
 
 
 ## Recommendations
