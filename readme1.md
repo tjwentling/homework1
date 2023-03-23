@@ -3,7 +3,7 @@
 ## Overview and Origin
 
 * Name of the company: *M1 Finance** 
-![M1 Finance Logo](./images/logo.png)
+![M1 Finance Logo](images/logo.png)
 
 * According to the **`M1 Finance` corporate website** here: [M1 Finance](https://m1.com/), `M1 Finance` was incorporated on April 20th, 2015. It was founded by Brian Barnes, who remains the company's CEO. 
 
