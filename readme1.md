@@ -3,14 +3,14 @@
 ## Overview and Origin
 
 * Name of the company: *M1 Finance** 
-![M1 Finance Logo](images/logo.png)
+![M1 Finance Logo](Images/logo.png)
 
 * According to the **`M1 Finance` corporate website** here: [M1 Finance](https://m1.com/), `M1 Finance` was incorporated on April 20th, 2015. It was founded by Brian Barnes, who remains the company's CEO. 
 
 * Brian Barnes started M1 with the goal of building a financial institution based on technology that strives to improve individual's financial well-being over their entire lifetimes. The name M1 is a representation of this goal. According to m1's [blog](https://m1.com/blog/m1-company-name/#:~:text=M1%20defines%20the%20platform%20we,M1%20is%20synonymous%20with%20money) Economists generally define M1 as the measure of the total money supply and quantify how much liquidity exists to facilitate transactions. 
 
 * Via [Techcrunch](https://techcrunch.com/2021/07/14/m1-finance-raises-150m-in-softbank-led-series-e-boosts-valuation-to-1-45b/) M1 Finance recently raised $150 Million in their Series E round, which officially puts them into unicorn status with a total valuation of $1.45 Billion. Since it's founding M1 has raised over $300 million. This latest round was led by SoftBank's Vision Fund 2 and previous investors include Coatue Management, Left Lane Capital, Jump Capital, and Clocktower Technology Ventures. 
-![Unicorn](./images/Unicorn.jpg)
+![Unicorn](./Images/Unicorn.jpg)
 
 
 ## Business Activities
