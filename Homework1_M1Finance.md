@@ -21,7 +21,7 @@
 * Finding data on M1's intended customer has not been succesful. However, based on the may they market themselves on their [corporate website](m1.com) it appears M1 is looking to do business with everyone except the "1%". The only major service for managing personal finances that M1 does not currently offer is insurance, therefor, anyone with an internet connection (and at least $100) would find value in some or all of their offerings.
 
 * The main competitive edge that M1 holds is that their full suite of banking, investing, and borrowing is offered through a single platform. One semi-unique feature is that M! offers a subscription based tier of service that reduces rates charged on margin and some credit services. There does not seem to be much of an unfair advantage, especially considering the low barrier to entry for current and potential future competitors. Please see Image below for a detailed breakdown of how M1's investment offering compares to it's biggest competitors in this space:
-![competitors](./Images/competitors.png)
+![Competitors](./Images/Competitors.png)
 
 * The technologies used in M1's platform are broad. This list was sourced from [Stackshare](https://stackshare.io/m1-finance/m1-finance). 
 
@@ -61,14 +61,14 @@ Investing
 ## Results
 
 * M1 has not necesarily revolutionized or been a game changer in the domains where they opperate. What they have accomplished is making it significantly easier to manage personal finance all in one location. There may be some critics that would say aggregating these services is a risky proposition, especially considering the events occuring in the banking industry recently. However, for those that trust the system to operate as intended, then M1 should be highly considered for all their financial needs.
-[screens](./Images/screens.png)
+![screens](./Images/screens.png)
 
 * Due to M1 being a pre-IPO company, there are 2 key metrics for the management team to consider themselves succesful. However, these will change overtime.
 The first is AUM (assets under management). In the second half of 2021 (most recent figure available), M1 surpassed $5 Billion in AUM. That number may not seem high for a JPM or BoA, but it does represent a 150% increase from the same time the previous year. Very Impressive.
 The second metric, would be continuously increased valuations during funding rounds. As investors place more and more of their capital into M1, they are doing deep dives into the company's financials. If the metrics they are analyzing continuously improve then it can be generally agreed upon that the company is succesful. 
 
 * As a private company, access to their financials is not something I have the ability to compare at the moment. However, considering the 150% increase in AUM, and the awards received (listed below) M1 is clearly quickly becoming a real player in this space.
-[reviews](./Images/reviews)
+![reviews](./Images/reviews)
 
 
 ## Recommendations
