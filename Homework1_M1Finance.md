@@ -81,3 +81,18 @@ The second metric, would be continuously increased valuations during funding rou
 
 * An API would absolutely be necesary in order to facilitate data transfer between M1 and the insurance broker. Without this, M1 would essentially only be able to direct their customers to broker websites, and that does very little to nothing to improve the client experience.
 
+## Works Cited
+
+* M1 Corporate Website - https://m1.com/ (multiple pages within this domain)
+
+* COINTELEGRAPH - https://cointelegraph.com/news/online-brokerage-m1-finance-to-launch-crypto-trading-accounts
+
+* Stackshare - https://stackshare.io/m1-finance/m1-finance
+
+* Investopedia - https://www.investopedia.com/m1-finance-review-4692708
+
+* Techcrunch - https://techcrunch.com/2021/07/14/m1-finance-raises-150m-in-softbank-led-series-e-boosts-valuation-to-1-45b/
+
+* Wikipedia - https://en.wikipedia.org/wiki/M1_Finance#:~:text=M1%20Finance%20(commonly%20abbreviated%20as,accounts%2C%20and%20lines%20of%20credit
+
+
